@@ -147,7 +147,7 @@ Offer Expires In: <span id="countdown"></span>
 <h3>🔥 Add Advanced Pack for $27</h3>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_xclick">
-<input type="hidden" name="business" value="your-paypal-email@example.com">
+<input type="hidden" name="business" value="infotanmoy1982@gmail.com">
 <input type="hidden" name="item_name" value="Advanced Activity Pack">
 <input type="hidden" name="amount" value="27.00">
 <input type="hidden" name="currency_code" value="USD">
