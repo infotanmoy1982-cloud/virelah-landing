@@ -131,7 +131,7 @@ Offer Expires In: <span id="countdown"></span>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_xclick">
-<input type="hidden" name="business" value="your-paypal-email@example.com">
+<input type="hidden" name="business" value="infotanmoy1982@gmail.com">
 <input type="hidden" name="item_name" value="Virelah Premium Learning System">
 <input type="hidden" name="amount" value="47.00">
 <input type="hidden" name="currency_code" value="USD">
@@ -140,7 +140,7 @@ Offer Expires In: <span id="countdown"></span>
 </form>
 
 <br><br>
-<a href="YOUR_GUMROAD_LINK" class="cta">Buy via Gumroad</a>
+<a href="https://virelah.gumroad.com" class="cta">Buy via Gumroad</a>
 
 <!-- UPSELL -->
 <div style="margin-top:40px">
@@ -194,7 +194,7 @@ n.queue=[];t=b.createElement(e);t.async=!0;
 t.src=v;s=b.getElementsByTagName(e)[0];
 s.parentNode.insertBefore(t,s)}(window, document,'script',
 'https://connect.facebook.net/en_US/fbevents.js');
-fbq('init','YOUR_PIXEL_ID');
+fbq('init','1275521451105310');
 fbq('track','PageView');
 </script>
 
